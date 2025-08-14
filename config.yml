@@ -1,0 +1,11 @@
+# 修改监听端口
+port: 36090
+
+# 服务目录
+serve: public
+
+# 网站名称
+siteName: 我的文件站
+
+# 背景图片 (可选)
+backgroundImage: /Resources/img/background_0.png
