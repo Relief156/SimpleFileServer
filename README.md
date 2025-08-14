@@ -1,2 +1,3 @@
 # SimpleFileServer
 一个java编写的简易文件web服务
+Release中的打包好的请使用Java11及以上版本启动
