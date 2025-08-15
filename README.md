@@ -7,12 +7,12 @@
 
 1. 下载打包好的可执行文件  
    ```
-   xxx.jar
+   SimpleFileServer.jar
    ```
 
 2. 启动服务  
    ```bash
-   java -jar xxx.jar
+   java -jar SimpleFileServer.jar
    ```
 
 3. 启动成功后，终端会提示类似下图，即代表服务已就绪：  
